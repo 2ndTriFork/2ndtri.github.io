@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bootlegbilly.github.io
+Token: e5ca87b9937d60df44ac18779620fd2a4a1870a7d91bb39e35d5e578a07ce05b
